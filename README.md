@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <head>
     <title>
     Happy World Music Day!
